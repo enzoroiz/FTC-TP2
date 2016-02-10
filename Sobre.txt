@@ -1,0 +1,27 @@
+Aluno: Enzo Roiz
+Matrícula: 2013062839
+
+Código desenvolvido utilizando linguagem Java.
+IDE utilizada: Eclipse.
+O código fonte está dentro da pasta "src", sendo os arquivos:
+Gramática.java, LeitorArquivo.java e Main.java
+
+Para executar pelo terminal faça:
+
+java -jar TP2_Enzo_Roiz.jar <NomeArquivoDeEntrada.extensao>
+
+Erro caso:
+- Não ache o arquivo de entrada.
+- Arquivo de entrada fora do padrão especificado.
+
+OBS.: Seguem anexos quatro arquivos de entrada utilizados para teste.
+entrada.txt -> 1º exemplo da especificação
+entrada1.txt -> 2º exemplo da especificação
+entrada2.txt -> 3º exemplo da especificação
+entrada3.txt -> Exemplo utilizado para explicação do algoritmo CYK em [1]*
+
+OBS. 2: A saída do TP é apresentada no próprio terminal, e não em arquivo como feito no trabalho passado.
+
+* Referências utilizadas:
+[1]: http://people.cs.nctu.edu.tw/~wgtzeng/courses/FL2013SpringUnder/CYK%20algorithm.pdf
+[2]: https://www.youtube.com/watch?v=JugIgxUyA4Q

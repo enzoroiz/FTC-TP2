@@ -1,0 +1,12 @@
+11
+S -> AB
+A -> GD
+A -> CD
+B -> HF
+B -> EF
+C -> (
+D -> )
+E -> [
+F -> ]
+G -> CA
+H -> EB
